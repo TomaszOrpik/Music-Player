@@ -12,11 +12,10 @@ This app is made for example of my .Net C# console app knowledge. It's simple pr
 # Technologies
 
 App is programmed in C# language, based on .Net framework in version 4.7.1, for correct working i reccomend update/ install minimum this version. Libraries used in project:
-* Text.RegularExpressions (C# built in library)
-* IO (C# built in library)
-* Runtime.InteropServices (C# built in library)
+* Text.RegularExpressions (C# built in library for choosing format to operate on)
+* IO (C# built in library for operate on systems directory)
 * Windows.Media (C# library for reading music format)
-* NAudio (open source library: [Author's Page](https://github.com/naudio/NAudio)
+* NAudio (open source library: [Author's Page](https://github.com/naudio/NAudio) for open music formats in app)
 
 ------------------------------------------
 # Setup
