@@ -6,7 +6,7 @@
 
 This app is made for example of my .Net C# console app knowledge. It's simple program made to play your music with minimum system load in most intuitive way, the console app can. Music player have implementent typical for graphic based players functions, like playlist, and auto-loop. App don't need to be installed, just generate .exe file and put the .wav format music in same location. Voilà! It's that simple!
 
-![](name-of-giphy.gif)
+![](example.gif)
 
 ------------------------------------------
 # Technologies
