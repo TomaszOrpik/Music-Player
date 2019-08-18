@@ -1,6 +1,7 @@
 ﻿using NAudio.Wave;
 using System;
 using System.IO;
+using NAudio;
 
 namespace Music_Player
 {
