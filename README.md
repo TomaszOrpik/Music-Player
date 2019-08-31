@@ -48,11 +48,6 @@ Application was created as a passing project for study. Main goal behind app was
 
 You can report encountered bugs or send ideas for improvement [here](https://github.com/TomaszOrpik/Music-Player/issues/new)
 
-### To-Do
-
-* Add open song again after loop ends
-* make visual form more acceptable
-
 ### License
 
 Application was uploaded under GENERAL PUBLIC LICENSE for more information [check license file](https://github.com/TomaszOrpik/Music-Player/blob/master/LICENSE)
