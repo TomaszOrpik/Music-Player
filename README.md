@@ -23,13 +23,13 @@ App is programmed in C# language, based on .Net framework in version 4.7.1, for 
 * Unrar folder
 * Run Music Player.exe in folder
 * follow instructions on screen
-* You can put yours music in MyMusic folder (use .wav format)
+* You can put your music in MyMusic folder (use .wav format)
 
 ### * Compile file by yourself (requires Visual Studio):
 
 * On repository screen select Download>Open in Visual Studio
 * In Visual Studio press **Compile**
-* App automatically creates MyMusic folder in Music Player/bin/debug - put yours music in .wav format there
+* App automatically creates MyMusic folder in Music Player/bin/debug - put your music in .wav format there
 * follow instructions on screen
 
 # Features
