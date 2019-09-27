@@ -17,7 +17,7 @@ App is programmed in C# language, based on .Net framework in version 4.7.1, for 
 
 # Setup
 
-### * Download release file:
+### Download release file:
 
 * Download [zip](https://www115.zippyshare.com/v/py4FkzmJ/file.html)
 * Unrar folder
@@ -25,7 +25,7 @@ App is programmed in C# language, based on .Net framework in version 4.7.1, for 
 * follow instructions on screen
 * You can put your music in MyMusic folder (use .wav format)
 
-### * Compile file by yourself (requires Visual Studio):
+### Compile file by yourself (requires Visual Studio):
 
 * On repository screen select Download>Open in Visual Studio
 * In Visual Studio press **Compile**
