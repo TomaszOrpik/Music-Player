@@ -28,6 +28,7 @@ App is programmed in C# language, based on .Net framework in version 4.7.1, for 
 ### Compile file by yourself (requires Visual Studio):
 
 * On repository screen select Download>Open in Visual Studio
+* Download NUGET package NAudio
 * In Visual Studio press **Compile**
 * App automatically creates MyMusic folder in Music Player/bin/debug - put your music in .wav format there
 * follow instructions on screen
